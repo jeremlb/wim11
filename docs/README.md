@@ -52,7 +52,7 @@ Ce module est évaluer à travers un projet de portefolio en lien avec le cours 
     <tr>
       <td>09/12</td>
       <td></td>
-      <td>Project</td>
+      <td>TP Mise en page</td>
     </tr>
     <tr>
       <td>16/12</td>
