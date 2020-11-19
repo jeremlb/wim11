@@ -4,6 +4,8 @@
 
 ?> Vous pouvez utiliser [des aides](https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf) pour trouver les balises HTML.
 
+?> La correction se trouve là [correction](/tp/html1-correction)
+
 ## Exercices
 ### Exercice 1
 
