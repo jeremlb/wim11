@@ -35,37 +35,37 @@ Ce module est évaluer à travers un projet de portefolio en lien avec le cours 
   </thead>
   <tbody>
     <tr>
-      <td>18/11</td>
+      <td>19/11</td>
       <td>Cours HTML</td>
       <td>TP HTML</td>
     </tr>
     <tr>
-      <td>25/11</td>
+      <td>26/11</td>
       <td></td>
-      <td>Mise en page de site</td>
+      <td>TP Formulaire</td>
     </tr>
     <tr>
-      <td>02/12</td>
+      <td>03/12</td>
       <td>Cours CSS</td>
       <td>TP CSS</td>
     </tr>
     <tr>
-      <td>09/12</td>
+      <td>10/12</td>
       <td></td>
       <td>TP Mise en page</td>
     </tr>
     <tr>
-      <td>16/12</td>
+      <td>17/12</td>
       <td>Cours JS</td>
       <td>TP JS</td>
     </tr>
     <tr>
-      <td>06/01</td>
+      <td>07/01</td>
       <td></td>
       <td>Project</td>
     </tr>
     <tr>
-      <td>13/01</td>
+      <td>14/01</td>
       <td></td>
       <td>Project</td>
     </tr>  

@@ -5,7 +5,7 @@
   * [TD - JS](http://www.iut-fbleau.fr/sitebp/web/wim11/js/js.pdf)
 * TP
   * [TP - HTML](/tp/html)
-  * [TP - FORM](http://www.iut-fbleau.fr/sitebp/web/wim11/?p=tp2)
-  * [TP - CSS](/tp/css)
-  * [TP - JS](http://www.iut-fbleau.fr/sitebp/web/wim11/?p=tp6)
-* [Project](/project)
+  <!-- * [TP - FORM](http://www.iut-fbleau.fr/sitebp/web/wim11/?p=tp2) -->
+  <!-- * [TP - CSS](/tp/css) -->
+  <!-- * [TP - JS](http://www.iut-fbleau.fr/sitebp/web/wim11/?p=tp6) -->
+<!-- * [Project](/project) -->

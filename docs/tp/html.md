@@ -74,17 +74,17 @@ Ecrire une page qui affiche la gallerie de portraits suivante :
   </tbody>
 </table>
 
-### Exercice 4
+<!-- ### Exercice 4 -->
 
-Ecrire une page qui envoie un formulaire à l'url : https://todo-wim.herokuapp.com/add-todo
+<!-- Ecrire une page qui envoie un formulaire à l'url : https://todo-wim.herokuapp.com/add-todo -->
 
-Le formulaire doit contenir: 
- - un champ d'écriture avec le nom `todo`
- - un label
- - un bouton d'envoie 
- - un bouton reset
+<!-- Le formulaire doit contenir:  -->
+ <!-- - un champ d'écriture avec le nom `todo` -->
+ <!-- - un label -->
+ <!-- - un bouton d'envoie  -->
+ <!-- - un bouton reset -->
 
-Une fois votre formulaire envoyé, vous serez redirigé sur la page : https://todo-wim.herokuapp.com.
+<!-- Une fois votre formulaire envoyé, vous serez redirigé sur la page : https://todo-wim.herokuapp.com. -->
 
 ## Aides
 
@@ -183,28 +183,28 @@ Vous trouverez quelques exemples d'utilisations de balises HTML.
   </table>
 </details>
 
-### Les formulaires
-[Plus de détails sur les tables](https://www.w3schools.com/html/html_forms.asp)
+<!-- ### Les formulaires -->
+<!-- [Plus de détails sur les tables](https://www.w3schools.com/html/html_forms.asp) -->
 
-Il existe plusieurs type de champs:
- - La balise input accepte plusieurs [types](https://www.w3schools.com/tags/att_input_type.asp) 
- - La balise [textarea](https://www.w3schools.com/tags/tag_textarea.asp) pour les zones de textes multilignes.
+<!-- Il existe plusieurs type de champs: -->
+ <!-- - La balise input accepte plusieurs [types](https://www.w3schools.com/tags/att_input_type.asp)  -->
+ <!-- - La balise [textarea](https://www.w3schools.com/tags/tag_textarea.asp) pour les zones de textes multilignes. -->
 
-Il est aussi possible de [valider](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires/Validation_donnees_formulaire) des formulaires HTML sans utilisation de JavaScript.
+<!-- Il est aussi possible de [valider](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires/Validation_donnees_formulaire) des formulaires HTML sans utilisation de JavaScript. -->
 
-###### Balise form
-```html
-<form action="URL" method="POST|GET">
-</form>
-```
+<!-- ###### Balise form -->
+<!-- ```html -->
+<!-- <form action="URL" method="POST|GET"> -->
+<!-- </form> -->
+<!-- ``` -->
 
-###### Balise input
-```html
-<input name="nom" id="nom" type="text"/>
-```
+<!-- ###### Balise input -->
+<!-- ```html -->
+<!-- <input name="nom" id="nom" type="text"/> -->
+<!-- ``` -->
 
-###### Boutons
-```html
-<input type="submit" value="Envoyer"/>
-<input type="reset" value="Reset"/>
-```
+<!-- ###### Boutons -->
+<!-- ```html -->
+<!-- <input type="submit" value="Envoyer"/> -->
+<!-- <input type="reset" value="Reset"/> -->
+<!-- ``` -->
