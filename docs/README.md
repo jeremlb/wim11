@@ -64,11 +64,6 @@ Ce module est évaluer à travers un projet de portefolio en lien avec le cours 
       <td></td>
       <td>Project</td>
     </tr>
-    <tr>
-      <td>14/01</td>
-      <td></td>
-      <td>Project</td>
-    </tr>  
   </tbody>
 </table>
 

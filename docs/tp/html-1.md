@@ -1,4 +1,4 @@
-<h1> TP HTML </h1>
+<h1> TP HTML 1</h1>
 
 !> Vous validerez *toutes* vos pages avec le service de [validation](http://validator.w3.org/) du W3C.
 
