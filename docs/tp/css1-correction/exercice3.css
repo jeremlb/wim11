@@ -1,0 +1,15 @@
+.article + .article {
+  margin: 0 auto;
+  border: 1px solid black;
+  padding: 15px;
+  margin:40px;
+}
+
+.article * .article__description {
+  text-align: center;
+  background-color: #FFFFDD;
+}
+
+.article * .article__description:active {
+  background-color: indigo;
+}

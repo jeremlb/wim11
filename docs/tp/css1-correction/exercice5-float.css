@@ -1,0 +1,6 @@
+.article {
+  width: calc(50% - 2 * 40px - 2 * 1px);
+  margin: 40px;
+  float: left;
+  border: 1px solid black;
+}

@@ -1,0 +1,13 @@
+.nav .nav__item{
+  display: inline-block;
+}
+
+.nav .nav__item:not(:last-child){
+  margin-right: 16px;
+}
+
+@media (max-width: 640px) {
+  .nav {
+    display: none;
+  }
+}

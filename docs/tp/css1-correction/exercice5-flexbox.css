@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.article {
+  width: calc(50% - 2 * 40px - 2 * 1px);
+  margin: 40px;
+  border: 1px solid black;
+}

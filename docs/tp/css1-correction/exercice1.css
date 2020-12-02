@@ -1,0 +1,8 @@
+.nav__item__link {
+  color: grey;
+  text-decoration: none;
+}
+
+.nav__item__link:hover {
+  text-decoration: underline;
+}

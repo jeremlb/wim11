@@ -6,6 +6,6 @@
 * TP
   * [TP 1 - HTML](/tp/html-1)
   * [TP 2 - HTML](/tp/html-2)
-  * [TP - CSS](/tp/css)
+  * [TP 1 - CSS](/tp/css-1)
   <!-- * [TP - JS](http://www.iut-fbleau.fr/sitebp/web/wim11/?p=tp6) -->
 <!-- * [Project](/project) -->
