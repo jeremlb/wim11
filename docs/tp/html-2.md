@@ -9,8 +9,8 @@ table{ text-align: center;margin:0 auto;width: fit-content !important; }
 
 ?> Vous pouvez utiliser [des aides](https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf) pour trouver les balises HTML.
 
-<!--?> La correction se trouve là [correction](/tp/html1-correction)-->
-
+?> La correction se trouve là [correction](/tp/html2-correction)
+ 
 ## Exercices
 ### Exercice 1
 

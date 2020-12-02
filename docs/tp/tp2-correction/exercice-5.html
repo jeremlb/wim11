@@ -2,7 +2,7 @@
 <html lang="fr">
 
 <head>
-  <title>Exercice 4</title>
+  <title>Exercice 5</title>
   <meta charset="utf-8">
 </head>
 
@@ -31,12 +31,17 @@
 
     <div>
       <label for="postcode">Code postal : </label>
-      <input type="number" name="postcode" id="postcode" placeholder="ex: 75000">
+      <input type="number" name="postcode" id="postcode" placeholder="ex: 75000" min="5" max="99999">
+      <!-- 
+          Validation d'un code postal avec une expression régulière
+          <input type="text" name="postcode" id="postcode" placeholder="ex: 75000" pattern="(?:[0-8]\d|9[0-8])\d{3}">
+         -->
     </div>
 
     <div>
       <label for="phonenumber">N° Télephone portable : </label>
-      <input type="text" name="phonenumber" id="phonenumber" placeholder="ex: 0655664488">
+      <input type="text" name="phonenumber" id="phonenumber" placeholder="ex: 0655664488" pattern="^(\+33|0)[6-7](\d\d){4}$">
+      <!-- Il n'y a pas d'attribut pour afficher un message d'erreur personnalisé, c'est pour cela qu'il y a JavaScript -->
     </div>
 
     <div>
@@ -52,7 +57,7 @@
       <label for="semester">Semestre : </label>
       <select name="semester" id="semester">
         <option value="Semestre 1">Semestre 1</option>
-        <option value="Semestre 2">Semestre 2</option>
+        <option value="Semestre 2" selected>Semestre 2</option>
         <option value="Semestre 3">Semestre 3</option>
         <option value="Semestre 4">Semestre 4</option>
       </select>
@@ -60,7 +65,7 @@
 
     <div>
       <label for="niveau">Niveau en HTML (entre 0 et 10) : </label>
-      <input type="range" name="niveau" id="niveau" min="0" max="10">
+      <input type="range" name="niveau" id="niveau" min="0" max="10" value="5">
     </div>
 
     <div>
