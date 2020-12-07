@@ -179,46 +179,46 @@
 
     <div>
       <label for="lastname">Nom : </label>
-      <input type="text" name="lastname" id="lastname" placeholder="ex: Dupont">
+      <input type="text" name="lastname" id="lastname" placeholder="ex: Dupont" required>
     </div>
 
     <div>
       <label for="firstname">Prénom : </label>
-      <input type="text" name="firstname" id="firstname" placeholder="ex: Jean-Paul">
+      <input type="text" name="firstname" id="firstname" placeholder="ex: Jean-Paul" required>
     </div>
 
     <div>
       <label for="birthdate">Date de naissance : </label>
-      <input type="date" name="birthdate" id="birthdate">
+      <input type="date" name="birthdate" id="birthdate" required>
     </div>
 
     <div>
       <label for="email">Adresse email : </label>
-      <input type="email" name="email" id="email" placeholder="ex: jean-paul.dupont@gmail.com">
+      <input type="email" name="email" id="email" placeholder="ex: jean-paul.dupont@gmail.com" required>
     </div>
 
     <div>
       <label for="postcode">Code postal : </label>
-      <input type="number" name="postcode" id="postcode" placeholder="ex: 75000">
+      <input type="number" name="postcode" id="postcode" placeholder="ex: 75000" required>
     </div>
 
     <div>
       <label for="phonenumber">N° Télephone portable : </label>
-      <input type="text" name="phonenumber" id="phonenumber" placeholder="ex: 0655664488">
+      <input type="text" name="phonenumber" id="phonenumber" placeholder="ex: 0655664488" required>
     </div>
 
     <div>
-      <input type="radio" name="gender" id="femme" value="Madame">
+      <input type="radio" name="gender" id="femme" value="Madame" required>
       <label for="femme">Femme </label>
-      <input type="radio" name="gender" id="homme" value="Monsieur">
+      <input type="radio" name="gender" id="homme" value="Monsieur" required>
       <label for="homme">Homme </label>
-      <input type="radio" name="gender" id="autre" value="Autre">
+      <input type="radio" name="gender" id="autre" value="Autre" required>
       <label for="autre">Autre </label>
     </div>
 
     <div>
       <label for="semester">Semestre : </label>
-      <select name="semester" id="semester">
+      <select name="semester" id="semester" required>
         <option value="Semestre 1">Semestre 1</option>
         <option value="Semestre 2">Semestre 2</option>
         <option value="Semestre 3">Semestre 3</option>
@@ -228,12 +228,12 @@
 
     <div>
       <label for="niveau">Niveau en HTML (entre 0 et 10) : </label>
-      <input type="range" name="niveau" id="niveau" min="0" max="10">
+      <input type="range" name="niveau" id="niveau" min="0" max="10" required>
     </div>
 
     <div>
       <label for="message">Message : </label>
-      <textarea name="message" id="message"></textarea>
+      <textarea name="message" id="message" required></textarea>
     </div>
 
     <div>
@@ -262,27 +262,27 @@
 
     <div>
       <label for="lastname">Nom : </label>
-      <input type="text" name="lastname" id="lastname" placeholder="ex: Dupont">
+      <input type="text" name="lastname" id="lastname" placeholder="ex: Dupont" required>
     </div>
 
     <div>
       <label for="firstname">Prénom : </label>
-      <input type="text" name="firstname" id="firstname" placeholder="ex: Jean-Paul">
+      <input type="text" name="firstname" id="firstname" placeholder="ex: Jean-Paul" required>
     </div>
 
     <div>
       <label for="birthdate">Date de naissance : </label>
-      <input type="date" name="birthdate" id="birthdate">
+      <input type="date" name="birthdate" id="birthdate" required>
     </div>
 
     <div>
       <label for="email">Adresse email : </label>
-      <input type="email" name="email" id="email" placeholder="ex: jean-paul.dupont@gmail.com">
+      <input type="email" name="email" id="email" placeholder="ex: jean-paul.dupont@gmail.com" required>
     </div>
 
     <div>
       <label for="postcode">Code postal : </label>
-      <input type="number" name="postcode" id="postcode" placeholder="ex: 75000" min="5" max="99999">
+      <input type="number" name="postcode" id="postcode" placeholder="ex: 75000" min="5" max="99999" required>
       <!-- 
           Validation d'un code postal avec une expression régulière
           <input type="text" name="postcode" id="postcode" placeholder="ex: 75000" pattern="(?:[0-8]\d|9[0-8])\d{3}">
@@ -291,22 +291,22 @@
 
     <div>
       <label for="phonenumber">N° Télephone portable : </label>
-      <input type="text" name="phonenumber" id="phonenumber" placeholder="ex: 0655664488" pattern="^(\+33|0)[6-7](\d\d){4}$">
+      <input type="text" name="phonenumber" id="phonenumber" placeholder="ex: 0655664488" pattern="^(\+33|0)[6-7](\d\d){4}$" required>
       <!-- Il n'y a pas d'attribut pour afficher un message d'erreur personnalisé, c'est pour cela qu'il y a JavaScript -->
     </div>
 
     <div>
-      <input type="radio" name="gender" id="femme" value="Madame">
+      <input type="radio" name="gender" id="femme" value="Madame" required>
       <label for="femme">Femme </label>
-      <input type="radio" name="gender" id="homme" value="Monsieur">
+      <input type="radio" name="gender" id="homme" value="Monsieur" required>
       <label for="homme">Homme </label>
-      <input type="radio" name="gender" id="autre" value="Autre">
+      <input type="radio" name="gender" id="autre" value="Autre" required>
       <label for="autre">Autre </label>
     </div>
 
     <div>
       <label for="semester">Semestre : </label>
-      <select name="semester" id="semester">
+      <select name="semester" id="semester" required>
         <option value="Semestre 1">Semestre 1</option>
         <option value="Semestre 2" selected>Semestre 2</option>
         <option value="Semestre 3">Semestre 3</option>
@@ -316,12 +316,12 @@
 
     <div>
       <label for="niveau">Niveau en HTML (entre 0 et 10) : </label>
-      <input type="range" name="niveau" id="niveau" min="0" max="10" value="5">
+      <input type="range" name="niveau" id="niveau" min="0" max="10" value="5" required>
     </div>
 
     <div>
       <label for="message">Message : </label>
-      <textarea name="message" id="message"></textarea>
+      <textarea name="message" id="message" required></textarea>
     </div>
 
     <div>
