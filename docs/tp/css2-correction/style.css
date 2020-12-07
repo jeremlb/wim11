@@ -1,0 +1,33 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: Arial;
+}
+
+.titre {
+  padding: 16px;
+  text-align: center;
+  background-color: #EFEFEF;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  margin:8px;
+  display: inline-block;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: underline dotted;
+  color: #08c;
+}
+
+article img {
+  width: 100px;
+  height: 100px;
+  padding: 2px 8px 16px 0;
+  box-shadow: 10px 2px 10px black;
+}

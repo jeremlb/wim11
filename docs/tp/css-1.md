@@ -4,7 +4,7 @@
 
 ?> Vous pouvez utiliser [des aides](https://developer.mozilla.org/fr/docs/Web/CSS/Reference) pour trouver les propriétés CSS.
 
-<!-- ?> La correction se trouve là [correction](/tp/css1-correction) -->
+?> La correction se trouve là [correction](/tp/css1-correction)
 
 ## Exercices
 
