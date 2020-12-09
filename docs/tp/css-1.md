@@ -1,4 +1,4 @@
-<h1> TP CSS </h1>
+<h1> TP CSS 1</h1>
 
 ?> Vous pouvez l'inspecteur dans les outils développeur pour modifier du code CSS directement dans le navigateur.
 
