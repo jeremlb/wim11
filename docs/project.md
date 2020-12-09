@@ -17,38 +17,45 @@ Le projet donnera lieu à une note en WIM et en EC. Seront jugés :
 #### Exigences minimales
 
 Votre site doit au minimum : 
- - contenir 3 pages : accueil, cv, contact ; si vous avez des réalisations mettez les dans une page séparé. 
- - utiliser 1 feuille de style par page
+ - contenir 4 pages : accueil, cv, réalisations, contact
+ - la page de contact doit contenir un formulaire et vos coordonnés
+ - utiliser 1 feuille de style par page ; vous pouvez mutualiser certaines parties du projet (ex: menu, pied de page)
  - valider votre site sur [http://validator.w3.org/](http://validator.w3.org/) (tous les projets seront vérifiés avec cet outil de validation, vous devriez donc respecter les références de votre doctype html)
  - utiliser d'un format d'image adapté: png, jpg, svg
  - utiliser des media-queries pour s'adapter à la taille d'écran
- - contenir des liens vers réseaux sociaux professionnels (linkedin)
+ - contenir des liens vers réseaux sociaux professionnels (linkedin, autres)
 
 Votre CV doit pouvoir être imprimable à partir de la version HTML. 
 
-#### Utilisations d'un CSM / Framework / Template
+> Le but de ce projet est pour vous d'avoir des réalisations à présenter en entretien pour vos stages. Soignez-le !
 
-L'utilisation d'un CMS comme Wordpress est authorisé. Il sera demandé en plus du code source et d'une URL fonctionnelle pour validater votre travail, des accès aux interfaces d'administrations et un rapport détaillant:
- - le choix du CMS, du framework ou du template
- - la mise en place du système (gestions des accès, déploiement)
- - les liens vers le template original
- - les modifications apportés aux fichiers sources
- - une explication du fonctionnement du CMS, du framework ou du template
+!>L'utilisation de CMS ou de template est interdite. 
 
-!>Toute utilisation d'un CMS, d'un framework ou d'un template sans rapport détaillé sera sanctionnée d'un 0.
+#### Utilisations de librairie JavaScript
+
+L'utilisation de librairies comme jQuery est authorisé. Il sera demandé en plus du code source et d'une URL fonctionnelle pour validater votre travail, un rapport détaillant:
+ - le choix de la librairie : pourquoi avoir utilisé cet librairie ? 
+ - la mise en place de la dépendance : comment charge-t-on la librairie JavaScript ? 
+ - le fonctionnement de la librairie : comment la librairie interagit avec votre code ?
+ - le lien vers les sources de la librairie
+
+L'idée de ce rapport est de montrer que vous avez compris (le code et comment la librairie intéragit avec votre page)ce que vous ajouter dans votre projet et surtout que vous savez expliquer les choix que vous faites... C'est ce qu'on vous demandera en entreprise.
+
+!> L'absence de rapport sera  sanctionné.
 
 #### Conseils
 
 - Le projet est à faire seul.
-- Respectez les exigences minimales.
-- Soignez l'aspect, l'ergonomie, l'accessibilté et la convivialité (look and feel) de votre site.
-- Le point d'entrée de votre site est index.html. Divisez le contenu à l'aide de répertoires (img, css, js, etc.).
+- Respecter les exigences minimales.
+- Soigner l'aspect, l'ergonomie, l'accessibilté et la convivialité (look and feel) de votre site.
+- Le point d'entrée de votre site est index.html. Diviser le contenu à l'aide de répertoires (img, css, js, etc.).
+- Respecter certaines conventions de nommage pour vos fichiers en minuscule, sans espace et sans accent. Autrement appeler `snake-case`
 
 ### Évaluation
 
-Projet à rendre le **mercredi 15 janvier**. Pour les retardataires, le barèmes suivant sera appliqués : 
- - 1 jour de retard (jeudi 16/01) : -1 points
- - 2 jours de retard (vendredi 17/01): -2 points
+Projet à rendre le **lundi 11 janvier**. Pour les retardataires, le barèmes suivant sera appliqués : 
+ - 1 jour de retard (mardi 12/01) : -1 points
+ - 2 jours de retard (mercredi 13/01): -2 points
  - 3 jours de retard : 0/20
 
 Le projet donnera lieu à 3 notes, une en EC, une en PPP et une en WIM.
