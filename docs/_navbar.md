@@ -9,4 +9,4 @@
   * [TP 1 - CSS](/tp/css-1)
   * [TP 2 - CSS](/tp/css-2)
   <!-- * [TP - JS](http://www.iut-fbleau.fr/sitebp/web/wim11/?p=tp6) -->
-<!-- * [Project](/project) -->
+* [Project](/project)

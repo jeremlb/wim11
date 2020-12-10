@@ -31,6 +31,8 @@ Votre CV doit pouvoir être imprimable à partir de la version HTML.
 
 !>L'utilisation de CMS ou de template est interdite. 
 
+!> Le plagiat est sanctionné d'un 0. 
+
 #### Utilisations de librairie JavaScript
 
 L'utilisation de librairies comme jQuery est authorisé. Il sera demandé en plus du code source et d'une URL fonctionnelle pour validater votre travail, un rapport détaillant:
