@@ -6,7 +6,7 @@
 
 > Un peu d'aide pour les [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (en anglais)
 
-<!-- ?> La correction se trouve là [correction](/tp/css2-correction) -->
+?> La correction se trouve là [correction](/tp/css2-correction)
 
 ## Exercices
 
