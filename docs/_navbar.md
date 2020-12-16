@@ -8,5 +8,5 @@
   * [TP 2 - HTML](/tp/html-2)
   * [TP 1 - CSS](/tp/css-1)
   * [TP 2 - CSS](/tp/css-2)
-  <!-- * [TP - JS](http://www.iut-fbleau.fr/sitebp/web/wim11/?p=tp6) -->
+  * [TP 1 - JS](/tp/js-1)
 * [Project](/project)
