@@ -1,4 +1,4 @@
-<h1> TP HTML 2 - CORECTION </h1>
+<h1> TP HTML 2 - CORRECTION </h1>
 
 ### Exercice 1
 

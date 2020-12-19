@@ -1,6 +1,6 @@
 <h1> TP Js 1</h1>
 
-<!-- ?> La correction se trouve là [correction](/tp/js1-correction) -->
+?> La correction se trouve là [correction](/tp/js1-correction)
 
 ?> Récupérer les fichiers sources utilisés pour le tp [ici](/tp/js-1-html-script)
 

@@ -1,3 +1,6 @@
+<h1> TP Js 1 - Correction</h1>
+
+```js
 // -----------------------------------------------------------------------------------------------------------------
 /**
  * Cette partie du code, vous n'avez pas besoin d'y toucher. Elle permet de gérer la grille et l'affichage des cellules
@@ -301,3 +304,4 @@ function main() {
 
 // Le jeu est démarré ici
 main();
+```
